@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\bin\Debug\net6.0\Exanples005ifelse.exe
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\bin\Debug\net6.0\Exanples005ifelse.deps.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\bin\Debug\net6.0\Exanples005ifelse.runtimeconfig.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\bin\Debug\net6.0\Exanples005ifelse.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\bin\Debug\net6.0\Exanples005ifelse.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\refint\Exanples005ifelse.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\Exanples005ifelse.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Exanples005ifelse\obj\Debug\net6.0\ref\Exanples005ifelse.dll
