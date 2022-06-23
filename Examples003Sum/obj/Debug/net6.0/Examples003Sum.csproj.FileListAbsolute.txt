@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\bin\Debug\net6.0\Examples003Sum.exe
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\bin\Debug\net6.0\Examples003Sum.deps.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\bin\Debug\net6.0\Examples003Sum.runtimeconfig.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\bin\Debug\net6.0\Examples003Sum.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\bin\Debug\net6.0\Examples003Sum.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\refint\Examples003Sum.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\Examples003Sum.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples003Sum\obj\Debug\net6.0\ref\Examples003Sum.dll
