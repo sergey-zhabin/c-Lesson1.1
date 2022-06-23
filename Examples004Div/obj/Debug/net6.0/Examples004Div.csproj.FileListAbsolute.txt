@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\bin\Debug\net6.0\Examples004Div.exe
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\bin\Debug\net6.0\Examples004Div.deps.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\bin\Debug\net6.0\Examples004Div.runtimeconfig.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\bin\Debug\net6.0\Examples004Div.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\bin\Debug\net6.0\Examples004Div.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\refint\Examples004Div.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\Examples004Div.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson1\Examples004Div\obj\Debug\net6.0\ref\Examples004Div.dll
